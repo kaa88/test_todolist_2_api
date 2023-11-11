@@ -1,0 +1,6 @@
+*[а-яА-ЯёЁ]*
+node_modules
+.env*
+*copy.*
+build
+/temp
